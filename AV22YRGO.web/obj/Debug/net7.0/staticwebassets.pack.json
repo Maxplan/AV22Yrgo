@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maxpl\\AV22YRGO\\av22yrgo.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\maxpl\\AV22YRGO\\av22yrgo.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AV22YRGO.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AV22YRGO.web.props",
+      "PackagePath": "build\\AV22YRGO.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AV22YRGO.web.props",
+      "PackagePath": "buildMultiTargeting\\AV22YRGO.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AV22YRGO.web.props",
+      "PackagePath": "buildTransitive\\AV22YRGO.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

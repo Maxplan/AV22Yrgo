@@ -1,0 +1,67 @@
+[
+    {
+        "Id": 1,
+        "EventName": "Summer Concert",
+        "StartDate": "2023-06-25T00:00:00",
+        "EndDate": "2023-06-25T00:00:00",
+        "StartTime": "18:00:00",
+        "EndTime": "22:00:00",
+        "Location": "Central Park",
+        "Address": "123 Main St",
+        "PostalCode": "10001",
+        "City": "New York",
+        "EventLink": "http://example.com/summer-concert"
+    },
+    {
+        "Id": 2,
+        "EventName": "Food Festival",
+        "StartDate": "2023-07-15T00:00:00",
+        "EndDate": "2023-07-17T00:00:00",
+        "StartTime": "12:00:00",
+        "EndTime": "20:00:00",
+        "Location": "Convention Center",
+        "Address": "456 Elm St",
+        "PostalCode": "20001",
+        "City": "Washington",
+        "EventLink": "http://example.com/food-festival"
+    },
+    {
+        "Id": 3,
+        "EventName": "Art Show",
+        "StartDate": "2023-08-01T00:00:00",
+        "EndDate": "2023-08-10T00:00:00",
+        "StartTime": "10:00:00",
+        "EndTime": "18:00:00",
+        "Location": "Museum of Modern Art",
+        "Address": "789 Oak St",
+        "PostalCode": "30001",
+        "City": "Los Angeles",
+        "EventLink": "http://example.com/art-show"
+    },
+    {
+        "Id": 4,
+        "EventName": "Tech Conference",
+        "StartDate": "2023-09-01T00:00:00",
+        "EndDate": "2023-09-03T00:00:00",
+        "StartTime": "09:00:00",
+        "EndTime": "17:00:00",
+        "Location": "Conference Center",
+        "Address": "1010 Pine St",
+        "PostalCode": "40001",
+        "City": "San Francisco",
+        "EventLink": "http://example.com/tech-conference"
+    },
+    {
+        "Id": 5,
+        "EventName": "Film Festival",
+        "StartDate": "2023-10-01T00:00:00",
+        "EndDate": "2023-10-10T00:00:00",
+        "StartTime": "10:00:00",
+        "EndTime": "22:00:00",
+        "Location": "Cinema",
+        "Address": "1212 Cedar St",
+        "PostalCode": "50001",
+        "City": "Toronto",
+        "EventLink": "http://example.com/film-festival"
+    }
+]

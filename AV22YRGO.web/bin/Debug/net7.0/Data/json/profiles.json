@@ -1,0 +1,90 @@
+[
+    {
+      "Id": 1,
+      "FirstName": "John",
+      "LastName": "Doe",
+      "FullName": "John Doe",
+      "Email": "johndoe@example.com",
+      "Phone": "555-555-5555",
+      "PortfolioLink": "https://example.com/portfolio/johndoe",
+      "PortfolioImages": [
+        {
+          "Id": 1,
+          "Url": "https://example.com/images/johndoe/1.jpg",
+          "ProfileId": 1
+        },
+        {
+          "Id": 2,
+          "Url": "https://example.com/images/johndoe/2.jpg",
+          "ProfileId": 1
+        }
+      ],
+      "ProfilePicture": "https://example.com/images/johndoe/profile.jpg"
+    },
+    {
+      "Id": 2,
+      "FirstName": "Jane",
+      "LastName": "Doe",
+      "FullName": "Jane Doe",
+      "Email": "janedoe@example.com",
+      "Phone": "555-555-5555",
+      "PortfolioLink": "https://example.com/portfolio/janedoe",
+      "PortfolioImages": [
+        {
+          "Id": 3,
+          "Url": "https://example.com/images/janedoe/1.jpg",
+          "ProfileId": 2
+        },
+        {
+          "Id": 4,
+          "Url": "https://example.com/images/janedoe/2.jpg",
+          "ProfileId": 2
+        }
+      ],
+      "ProfilePicture": "https://example.com/images/janedoe/profile.jpg"
+    },
+    {
+      "Id": 3,
+      "FirstName": "Bob",
+      "LastName": "Smith",
+      "FullName": "Bob Smith",
+      "Email": "bobsmith@example.com",
+      "Phone": "555-555-5555",
+      "PortfolioLink": "https://example.com/portfolio/bobsmith",
+      "PortfolioImages": [
+        {
+          "Id": 5,
+          "Url": "https://example.com/images/bobsmith/1.jpg",
+          "ProfileId": 3
+        },
+        {
+          "Id": 6,
+          "Url": "https://example.com/images/bobsmith/2.jpg",
+          "ProfileId": 3
+        }
+      ],
+      "ProfilePicture": "https://example.com/images/bobsmith/profile.jpg"
+    },
+    {
+      "Id": 4,
+      "FirstName": "Alice",
+      "LastName": "Jones",
+      "FullName": "Alice Jones",
+      "Email": "alicejones@example.com",
+      "Phone": "555-555-5555",
+      "PortfolioLink": "https://example.com/portfolio/alicejones",
+      "PortfolioImages": [
+        {
+          "Id": 7,
+          "Url": "https://example.com/images/alicejones/1.jpg",
+          "ProfileId": 4
+        },
+        {
+          "Id": 8,
+          "Url": "https://example.com/images/alicejones/2.jpg",
+          "ProfileId": 4
+        }
+      ],
+      "ProfilePicture": "https://example.com/images/alicejones/profile.jpg"
+    }
+]
